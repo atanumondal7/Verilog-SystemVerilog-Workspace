@@ -1,4 +1,4 @@
-# Verilog-SystemVerilog-Workspace
+# Verilog-Workspace
 
 ## Coded in edaplayground.com
 
