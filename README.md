@@ -10,7 +10,8 @@ This repository contains all Verilog programs which I have written till date. It
 2. OR Gate
 3. 2 bit Multiplexer
 4. 4 bit Adder
-5. 4 bit Counter
-6. 4 bit ALU (Addition and Subtraction)
-7. D Flip Flop
-8. Traffic Light Simulator
+5. 4 bit Subtractor
+6. 4 bit Counter
+7. 4 bit ALU (Addition and Subtraction)
+8. D Flip Flop
+9. Traffic Light Simulator
