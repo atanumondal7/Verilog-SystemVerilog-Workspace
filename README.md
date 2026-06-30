@@ -15,3 +15,6 @@ This repository contains all Verilog programs which I have written till date. It
 7. 4 bit ALU (Addition and Subtraction)
 8. D Flip Flop
 9. Traffic Light Simulator
+10. Manual MUX (4 bit Structural)
+11. Manual Full Adder (1 bit Structural)
+12. Manual Ripple Carry Adder (4 bit Structural)
