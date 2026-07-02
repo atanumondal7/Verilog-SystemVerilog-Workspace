@@ -18,3 +18,7 @@ This repository contains all Verilog programs which I have written till date. It
 10. Manual MUX (4 bit Structural)
 11. Manual Full Adder (1 bit Structural)
 12. Manual Ripple Carry Adder (4 bit Structural)
+13. Manual MUX (4 bit BUS)
+14. Manual Full Subtractor
+15. Accumulator (Manual)
+16. Self-Check Testbench
